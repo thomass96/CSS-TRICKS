@@ -1,5 +1,5 @@
 
-# ${1:CSS TRICKS}
+# CSS TRICKS
 Here you will learn how to use CSS 'states', to manipulate elements within your HTML to behaviour differently and more effectively with users of your project.
 
 ## PREVIEW
